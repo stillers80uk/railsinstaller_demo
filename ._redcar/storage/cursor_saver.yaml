@@ -1,0 +1,12 @@
+--- 
+cursor_positions: 
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2013-03-26 15:34:00.523000 +00:00
+  - :path: public/index.html
+    :cursor_offset: 74
+    :timestamp: 2013-03-27 12:38:31.536000 +00:00
+  - :path: config/routes.rb
+    :cursor_offset: 1392
+    :timestamp: 2013-03-27 12:41:10.709000 +00:00
+files_to_retain: 0
